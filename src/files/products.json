@@ -1,0 +1,47 @@
+[
+	{
+		"id": 1,
+		"title": "air",
+		"description": "zapatillas",
+		"price": 10000,
+		"thumbnail": null,
+		"code": 1234,
+		"stock": 5
+	},
+	{
+		"id": 2,
+		"title": "earth",
+		"description": "sandalias",
+		"price": 1100,
+		"thumbnail": "no",
+		"code": 963,
+		"stock": 1
+	},
+	{
+		"id": 3,
+		"title": "water",
+		"description": "zapatos",
+		"price": 11000,
+		"thumbnail": null,
+		"code": 54321,
+		"stock": 32
+	},
+	{
+		"id": 5,
+		"title": "algo2",
+		"description": "ponele2",
+		"price": 1100,
+		"thumbnail": "thumbnail2",
+		"code": 9632,
+		"stock": 15
+	},
+	{
+		"id": 6,
+		"title": "algo",
+		"description": "ponele",
+		"price": 11,
+		"thumbnail": null,
+		"code": 45623,
+		"stock": 18
+	}
+]
